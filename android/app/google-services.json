@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747350198226",
+    "firebase_url": "https://newsme-45bb1.firebaseio.com",
+    "project_id": "newsme-45bb1",
+    "storage_bucket": "newsme-45bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747350198226:android:cd4d5438937947d65f2a0b",
+        "android_client_info": {
+          "package_name": "com.shevy.newme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747350198226-fk0mseqbf3gnm2qkguprpdnkbkuq9f9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybVKuQwmnD_aA4e18nZr87uPnMJhmP9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747350198226-fk0mseqbf3gnm2qkguprpdnkbkuq9f9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
